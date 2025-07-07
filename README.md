@@ -24,7 +24,7 @@ Build a system that:
 Sample 2:
 unit_t_coverage: 51.77
 t_failure_ratio: 0.75
-Predicted Failure: No ❌
+Predicted Failure: No 
 
 Suggested Fixes:
 Increase unit test coverage
